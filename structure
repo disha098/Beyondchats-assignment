@@ -1,20 +1,7 @@
 beyondchats-assignment/
 │
-├── backend-laravel/       
-││   ├── app/
-││   ├── routes/
-││   ├── database/
-││   ├── .env.example
-││   └── README.md
-│
+├── backend-laravel/
 ├── node-llm-updater/
-││   ├── index.js
-││   ├── package.json
-││   └── README.md
-│
-├── frontend-react/    
-││   ├── src/
-││   ├── public/
-││   └── README.md
-│
-└── README.md             
+├── frontend-react/
+└── README.md
+      
